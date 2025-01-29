@@ -11,3 +11,4 @@ EcwidApp.init({
 });
 
 let storeData = EcwidApp.getPayLoad();
+console.log(storeData);
