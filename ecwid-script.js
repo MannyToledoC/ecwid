@@ -12,3 +12,4 @@ EcwidApp.init({
 
 let storeData = EcwidApp.getPayLoad();
 console.log(storeData);
+console.log('test');
